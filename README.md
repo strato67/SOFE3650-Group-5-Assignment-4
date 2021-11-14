@@ -1,4 +1,4 @@
-# SOFE3650 Group-5 Assignment 4
+# SOFE3650 Group 5 Assignment 4
 
 Faisal Alsheet - 100639174
 
